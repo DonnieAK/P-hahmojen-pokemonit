@@ -10,7 +10,7 @@
 <p>Brock on salijohtaja, joka yleisesti käytti Pokemoneja Onix ja Geodude.
   
 <h2>Jessie ja James</h2>
-<p>Jessiellä ja Jamesilla usein antoivat heidän Pokemonit pois Rocket Leaguen johtajalle, mutta Jessien ensimmäinen Pokemon oli Ekans, ja Jamesin'
+<p>Jessiellä ja Jamesilla usein antoivat heidän Pokemonit pois Rocket Leaguen johtajalle, mutta Jessien ensimmäinen Pokemon oli Ekans, ja Jamesin ensimmäinen pokemon oli Carnivine.
 
 <h2>Pikachu</h2>
 <img width="175" length="175" src="76479dd91dc55c2768ddccfc30a4fbf5.png">
