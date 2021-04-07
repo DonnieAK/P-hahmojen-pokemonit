@@ -18,7 +18,7 @@
 <h2>Staryu</h2>
 <img width="175" length="175" src="120-Staryu.png">
 
-Onix ja Geodude
+<h2>Onix ja Geodude</h2>
 <img width="175" length="175" src="074Geodude.webp">
 <img width="175" length="175" src="download.jpg">
 
