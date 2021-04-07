@@ -12,5 +12,8 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+
 <h2>Misty</h2>
 <p><img align="right" width="175" length="175" src="120-Staryu.png">Mistyllä on ollut sarjassa enemmän kuin yksi Pääpokemoni, mutta Staryu on ollut niistä merkittävin.
