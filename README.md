@@ -1,3 +1,3 @@
 <h1 align="center">Päähahmojen pokemonit</h1>
 
-<p style="font-size:50vw"><b>Ash</b></p>
+<h1 style="font-size:10vw;">Ash</h1>
