@@ -16,7 +16,7 @@
  </fieldset>
 
 <fieldset>
-  <legend></b>Heidän Pokemonit</b></legend>
+  <legend><b>Heidän Pokemonit</b></legend>
 <h2>Pikachu</h2>
 <img width="175" length="175" src="76479dd91dc55c2768ddccfc30a4fbf5.png">
 
